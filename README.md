@@ -5,3 +5,4 @@
 - React Redux 
 - MongoDB
 #### RUN: `npm run dev` or `npm run start`
+#### KILL: `Ctrl+C`
