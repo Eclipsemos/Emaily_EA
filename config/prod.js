@@ -5,4 +5,3 @@ module.exports = {
     mongoURI: process.env.MONGO_URI,
     cookieKey: process.env.COOKIE_KEY
 };
-//mongodb+srv://emailyuser:zsqxse1011@emaily-prod.w7vvn.mongodb.net/remoteDBprod?
