@@ -1,8 +1,7 @@
-# Emaily EA 2022
-## Feedback-Collection Web Application (Google OAuth)
+# Emaily
+## Feedback-Collection Web Application
 ### Tech stack
 - Node.JS Express 
 - React Redux 
 - MongoDB
 #### RUN: `npm run dev` or `npm run start`
-#### KILL: `Ctrl+C`
